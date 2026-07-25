@@ -1,227 +1,82 @@
 <div align="center">
 
-# 👋 Hi, I'm Bandhavya K S
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B46,100:35155D&height=110&section=header"/>
 
-### Data Scientist | Machine Learning Engineer | GenAI Enthusiast
+# Bandhavya K S
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast;Python+Developer;Building+Intelligent+Solutions+with+AI" alt="Typing SVG" />
+### Data Science · Machine Learning · Generative AI · Data Analytics
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=BandhavyaKS&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-<a href="https://github.com/BandhavyaKS">
-<img src="https://img.shields.io/github/followers/BandhavyaKS?label=Followers&style=for-the-badge&color=58A6FF"/>
-</a>
+<sub>
+Python · SQL · Machine Learning · Deep Learning · NLP · Generative AI · RAG · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Streamlit
+</sub>
 
 </div>
 
----
+<br>
 
-# 👩‍💻 About Me
+## About Me
 
-🎓 B.E. Computer Science Engineering Graduate
+Computer Science Engineering graduate interested in **Data Science, Machine Learning, Generative AI and Data Analytics**. I enjoy working with data, building machine learning models and developing intelligent AI-based applications.
 
-💼 Aspiring **Data Scientist & Machine Learning Engineer**
+<br>
 
-🤖 Passionate about **Machine Learning, Deep Learning, Data Analytics, NLP, and Generative AI**
+## Current Focus
 
-🌱 Currently exploring **LLMs, RAG, LangChain, Hugging Face, and AI Applications**
+`Machine Learning` · `Deep Learning` · `Generative AI` · `NLP` · `RAG` · `LLMs` · `Data Analytics`
 
-🚀 I enjoy transforming raw data into meaningful insights and building intelligent real-world solutions.
+<br>
 
----
-
-## 📌 Current Focus
-
-```text
-🔹 Machine Learning
-🔹 Deep Learning
-🔹 Natural Language Processing
-🔹 Generative AI
-🔹 Retrieval-Augmented Generation (RAG)
-🔹 Streamlit Deployment
-```
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/bandhavya-k-shivaprasad">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/BandhavyaKS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/BandhavyaKS/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:bandhavyaks004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
----
-# 💻 Tech Stack
+## Featured Projects
 
-<div align="center">
+### AI-Powered Pneumonia Detection
 
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
----
-
-### 🤖 Machine Learning & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-</p>
-
----
-
-### 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=pandas"/>
-<img src="https://skillicons.dev/icons?i=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-### ✨ Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
----
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
----
-
-### 🗄 Databases
-
-<p>
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🩺 AI-Powered Pneumonia Detection
-
-Deep learning application that detects pneumonia from chest X-ray images using CNN and TensorFlow.
-
-**Tech Stack**
+Deep learning application for detecting pneumonia from chest X-ray images using CNN and TensorFlow.
 
 `Python` `TensorFlow` `CNN` `OpenCV` `Streamlit`
 
-</td>
+### Road Accident Prediction
 
-<td width="50%">
+Machine learning model for predicting accident severity using traffic and environmental features.
 
-### 🚗 Road Accident Prediction
+`Python` `Scikit-learn` `Random Forest` `EDA`
 
-Machine Learning model for predicting accident severity using traffic and environmental features.
+### Phishing URL Detection
 
-**Tech Stack**
+Machine learning system for identifying phishing websites using URL feature engineering and classification algorithms.
 
-`Python` `Scikit-Learn` `Random Forest` `EDA`
+`Python` `Scikit-learn` `Pandas`
 
-</td>
+<a href="https://github.com/BandhavyaKS/Phishing-URL-Detection-Using-Machine-Learning">View Project →</a>
 
-</tr>
+### Smart Vehicle Parking System
 
-<tr>
-
-<td>
-
-### 🔐 Phishing URL Detection
-
-ML model that classifies phishing websites using feature engineering and supervised learning.
-
-**Tech Stack**
-
-`Python` `Scikit-Learn` `Pandas`
-
-🔗 https://github.com/BandhavyaKS/Phishing-URL-Detection-Using-Machine-Learning
-
-</td>
-
-<td>
-
-### 🅿 Smart Vehicle Parking System
-
-IoT-based smart parking system with real-time slot availability monitoring.
-
-**Tech Stack**
+IoT-based smart parking system designed for real-time parking-slot availability monitoring.
 
 `Arduino` `NodeMCU` `IoT`
 
-</td>
+<br>
 
-</tr>
-
-</table>
-
----
-
-# 📚 Currently Learning
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Natural Language Processing
-- ✨ Generative AI
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🚀 LangChain
-- 🤗 Hugging Face
-- 🌐 Streamlit Deployment
-
----
-# 📊 GitHub Analytics
+## GitHub Streak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BandhavyaKS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=BandhavyaKS&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BandhavyaKS&theme=transparent&hide_border=true&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B"/>
 
 </div>
 
@@ -229,86 +84,12 @@ IoT-based smart parking system with real-time slot availability monitoring.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandhavyaKS&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BandhavyaKS&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BandhavyaKS&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BandhavyaKS/BandhavyaKS/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📈 GitHub Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BandhavyaKS&theme=github_dark"/>
-
-</div>
+### “Every dataset holds a story. Data science gives us the tools to discover it.”
 
 <br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BandhavyaKS&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BandhavyaKS&theme=github_dark"/>
+<sub>Bandhavya K Shivaprasad</sub>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BandhavyaKS&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BandhavyaKS&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 💡 Quote of the Day
-
-<div align="center">
-
-> *"Turning data into intelligent solutions through Machine Learning and Artificial Intelligence."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:35155D,50:111B46,100:050816&height=90&section=footer"/>
