@@ -1,50 +1,78 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=100&pause=80&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=BANDHAVYA+K+S;BANDHAVYA+K+S;BANDHAVYA+K+S" alt="Bandhavya K S" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,65:172554,100:581C87&height=120&section=header"/>
 
-### Data Science · Machine Learning · Generative AI · Data Analytics
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Bandhavya+K+S" alt="Bandhavya K S"/>
+
+### ✦ Data Science · Machine Learning · Generative AI · Data Analytics ✦
 
 <sub>
-Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · NLP · RAG · Streamlit
+Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · NLP · RAG · Power BI · Streamlit
 </sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Turning%20Data%20Into%20Intelligence-0B1120?style=for-the-badge&labelColor=0B1120&color=4C1D95"/>
 
 </div>
 
----
-
-## 👩‍💻 About Me
-
-Computer Science Engineering graduate passionate about **Data Science, Machine Learning, Generative AI and Data Analytics**, with an interest in transforming data into insights and building intelligent real-world applications.
+<br>
 
 ---
 
-## ✦ Current Focus
+## ✦ Beyond the Data
+
+```python
+class Bandhavya:
+    role = "Data Science & AI Enthusiast"
+
+    interests = [
+        "Machine Learning",
+        "Generative AI",
+        "Data Analytics",
+        "Deep Learning"
+    ]
+
+    mission = "Learn. Build. Discover."
+```
+
+I’m a Computer Science Engineering graduate exploring the intersection of **data, machine learning and artificial intelligence** — transforming raw information into insights and building intelligent solutions for real-world problems.
+
+---
+
+## ◈ Currently Exploring
 
 <div align="center">
 
-`Machine Learning`   `Deep Learning`   `Generative AI`   `LLMs`   `NLP`   `RAG`   `Data Analytics`
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-1E1B4B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-581C87?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Analytics-1E1B4B?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## ◇ Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/bandhavya-k-shivaprasad">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
 </a>
 
 <a href="https://github.com/BandhavyaKS">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=A78BFA"/>
 </a>
 
 <a href="mailto:bandhavyaks004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -86,21 +114,23 @@ Machine Learning model for predicting **accident severity** using traffic and en
 
 ### 🔐 Phishing URL Detection
 
-ML model that identifies **phishing websites** using URL feature engineering and supervised learning.
+Machine Learning model that identifies **phishing websites** using feature engineering and supervised learning.
 
 **Tech Stack**
 
 `Python` `Scikit-Learn` `Pandas`
 
-<a href="https://github.com/BandhavyaKS/Phishing-URL-Detection-Using-Machine-Learning">View Project →</a>
+<a href="https://github.com/BandhavyaKS/Phishing-URL-Detection-Using-Machine-Learning">
+View Project →
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🅿️ Smart Vehicle Parking System
+### 🅿 Smart Vehicle Parking System
 
-IoT-based smart parking system with **real-time parking slot availability monitoring**.
+IoT-based smart parking solution with **real-time parking slot availability monitoring**.
 
 **Tech Stack**
 
@@ -114,11 +144,11 @@ IoT-based smart parking system with **real-time parking slot availability monito
 
 ---
 
-## 🔥 Current Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BandhavyaKS&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=BandhavyaKS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -126,14 +156,18 @@ IoT-based smart parking system with **real-time parking slot availability monito
 
 <div align="center">
 
-### ✦ “Data is where curiosity meets discovery, and intelligence begins.”
+### ✦ Data → Patterns → Knowledge → Intelligence ✦
 
 <br>
 
-<sub>Bandhavya K Shivaprasad</sub>
+> *“The goal is to turn data into information, and information into insight.”*
+
+<br>
+
+<sub>✦ Bandhavya K Shivaprasad ✦</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:581C87,45:172554,75:0B1120,100:020617&height=90&section=footer"/>
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B46,75:24134F,100:581C87&height=80&section=footer"/>
