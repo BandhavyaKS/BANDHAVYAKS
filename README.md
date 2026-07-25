@@ -1,90 +1,132 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B46,100:35155D&height=110&section=header"/>
-
-# Bandhavya K S
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=100&pause=80&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=BANDHAVYA+K+S;BANDHAVYA+K+S;BANDHAVYA+K+S" alt="Bandhavya K S" />
 
 ### Data Science · Machine Learning · Generative AI · Data Analytics
 
 <sub>
-Python · SQL · Machine Learning · Deep Learning · NLP · Generative AI · RAG · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Streamlit
+Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · NLP · RAG · Streamlit
 </sub>
 
 </div>
 
-<br>
+---
 
-## About Me
+## 👩‍💻 About Me
 
-Computer Science Engineering graduate interested in **Data Science, Machine Learning, Generative AI and Data Analytics**. I enjoy working with data, building machine learning models and developing intelligent AI-based applications.
+Computer Science Engineering graduate passionate about **Data Science, Machine Learning, Generative AI and Data Analytics**, with an interest in transforming data into insights and building intelligent real-world applications.
 
-<br>
+---
 
-## Current Focus
-
-`Machine Learning` · `Deep Learning` · `Generative AI` · `NLP` · `RAG` · `LLMs` · `Data Analytics`
-
-<br>
-
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/bandhavya-k-shivaprasad">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BandhavyaKS">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:bandhavyaks004@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-## Featured Projects
-
-### AI-Powered Pneumonia Detection
-
-Deep learning application for detecting pneumonia from chest X-ray images using CNN and TensorFlow.
-
-`Python` `TensorFlow` `CNN` `OpenCV` `Streamlit`
-
-### Road Accident Prediction
-
-Machine learning model for predicting accident severity using traffic and environmental features.
-
-`Python` `Scikit-learn` `Random Forest` `EDA`
-
-### Phishing URL Detection
-
-Machine learning system for identifying phishing websites using URL feature engineering and classification algorithms.
-
-`Python` `Scikit-learn` `Pandas`
-
-<a href="https://github.com/BandhavyaKS/Phishing-URL-Detection-Using-Machine-Learning">View Project →</a>
-
-### Smart Vehicle Parking System
-
-IoT-based smart parking system designed for real-time parking-slot availability monitoring.
-
-`Arduino` `NodeMCU` `IoT`
-
-<br>
-
-## GitHub Streak
+## ✦ Current Focus
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BandhavyaKS&theme=transparent&hide_border=true&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B"/>
+`Machine Learning`   `Deep Learning`   `Generative AI`   `LLMs`   `NLP`   `RAG`   `Data Analytics`
 
 </div>
 
-<br>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bandhavya-k-shivaprasad">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+</a>
+
+<a href="https://github.com/BandhavyaKS">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+<a href="mailto:bandhavyaks004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🩺 AI-Powered Pneumonia Detection
+
+Deep learning application that detects **pneumonia from chest X-ray images** using CNN and TensorFlow.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `CNN` `OpenCV` `Streamlit`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Road Accident Prediction
+
+Machine Learning model for predicting **accident severity** using traffic and environmental features.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Random Forest` `EDA`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 Phishing URL Detection
+
+ML model that identifies **phishing websites** using URL feature engineering and supervised learning.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas`
+
+<a href="https://github.com/BandhavyaKS/Phishing-URL-Detection-Using-Machine-Learning">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🅿️ Smart Vehicle Parking System
+
+IoT-based smart parking system with **real-time parking slot availability monitoring**.
+
+**Tech Stack**
+
+`Arduino` `NodeMCU` `IoT`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🔥 Current Streak
 
 <div align="center">
 
-### “Every dataset holds a story. Data science gives us the tools to discover it.”
+<img src="https://streak-stats.demolab.com?user=BandhavyaKS&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ “Data is where curiosity meets discovery, and intelligence begins.”
 
 <br>
 
@@ -92,4 +134,6 @@ IoT-based smart parking system designed for real-time parking-slot availability 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:35155D,50:111B46,100:050816&height=90&section=footer"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B46,75:24134F,100:581C87&height=80&section=footer"/>
